@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Template Curriculum
+tagline:          'Building Curricula with Distributed Tech'
+description:      'A template for creating Curricula that you can host on any jekyll server (ie. Github Pages)'
+url:              http://flyingzumwalt.github.io/jekyll-curriculum-template/
+baseurl:          /jekyll-curriculum-template
+
+author:
+  name:           'Matt Zumwalt'
+  url:            https://twitter.com/flyingzumwalt
+
+# Custom vars
+version:          0.0.1
+gems:             [jekyll-paginate, jekyll-gist]
+
+github:
+  repo:           https://github.com/flyingzumwalt/jekyll-curriculum-template
